@@ -17,11 +17,17 @@ $ vim ~/.bashrc
 and add the following
 
 export SECRET_KEY='{secure secret key}'
+
 export NAME='{database name}'
+
 export USER='{user}'
+
 export PASSWORD='{user password}'
+
 export HOST='{database host ip}'
+
 export PORT='{database port}'
+
 
 Setup the database by running the following.
 
